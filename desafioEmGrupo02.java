@@ -55,6 +55,8 @@ public class desafioEmGrupo02 {
 		double total = 0.0, parcelas = 0.0;
 		
 		Scanner read = new Scanner("System.in");
+		
+		/*ESSE É UM COMENTÁRIO DE TESTE PARA O TESTE DE MERGE*/
 
 	}
 	
