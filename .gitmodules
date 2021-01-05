@@ -1,0 +1,3 @@
+[submodule "projeto_devsuperior/backend/dsdeliver/bundle/ultisnips"]
+	path = projeto_devsuperior/backend/dsdeliver/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
