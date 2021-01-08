@@ -4,7 +4,6 @@ import { Product } from "./types";
 type Props ={
     product: Product;
 }
-
 function formatPrice(price:  number){
     const formatter = new Intl.NumberFormat('pt-BR', {
         style: 'currency',
